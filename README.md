@@ -1,16 +1,3 @@
-# easy_payments
+## EasyPesa
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An app that makes Mpesa payments easier. Just scan the code, and the app autofills the merchant's details. It uses Mpesa Daraja API to prompt the transaction
